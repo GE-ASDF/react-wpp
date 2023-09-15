@@ -1,0 +1,8 @@
+.leftSide{
+    max-height: 100vh;
+    border-radius: 10px;
+    background: linear-gradient(to top, rgb(170, 233, 252), rgb(55, 202, 247));
+}
+.groupList{
+    overflow-y: auto;
+}
